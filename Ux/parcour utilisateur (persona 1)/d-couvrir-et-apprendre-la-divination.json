@@ -1,0 +1,36 @@
+{
+  "parcours": "Découvrir et apprendre la divination",
+  "persona": "Léa, 22 ans, débutante",
+  "contexte": "Depuis son téléphone",
+  "date": "2026-09-14",
+  "etapes": [
+    {
+      "Étape": "Découverte",
+      "Actions utilisateur": "Léa cherche des informations sur les jeux de cartes sur Internet",
+      "Émotion": "Positive",
+      "Points de friction": "Beaucoup de résultats et de sources différentes",
+      "Opportunités": "Centraliser les informations pour éviter le changement de sites"
+    },
+    {
+      "Étape": "Recherche",
+      "Actions utilisateur": "Elle consulte plusieurs sites pour comprendre les bases",
+      "Émotion": "Négative",
+      "Points de friction": "Informations trop dispersées ",
+      "Opportunités": "Proposer un apprentissage progressif"
+    },
+    {
+      "Étape": "Décision",
+      "Actions utilisateur": "Elle cherche un tirage adapté aux débutants",
+      "Émotion": "Neutre",
+      "Points de friction": "",
+      "Opportunités": ""
+    },
+    {
+      "Étape": "Utilisation",
+      "Actions utilisateur": "",
+      "Émotion": "Neutre",
+      "Points de friction": "",
+      "Opportunités": ""
+    }
+  ]
+}
