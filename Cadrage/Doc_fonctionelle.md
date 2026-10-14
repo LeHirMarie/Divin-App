@@ -1,5 +1,6 @@
 # Projet _Divin'App_
 
+test git clara
 ## Description synthétique
 
 Auteur : Marie Le Hir & Clara Bédé Candusso
